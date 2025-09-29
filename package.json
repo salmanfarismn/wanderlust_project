@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "22.18.0"
+  },
   "name": "16_aribnb_clone_project",
   "version": "1.0.0",
   "description": "",
